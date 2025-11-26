@@ -966,6 +966,7 @@
 * [travle](https://travle.earth/) - Guess Countries Between Two Locations
 * [MapGenerator](https://map-generator-nsj.vercel.app/) - GeoGuessr Map Generator
 * [VirtualStreets](https://virtualstreets.org/) - Google Street Update Tracker
+* [Take Purity Test](https://ricepurity.info/) - Rice Purity Test Quiz
 
 ***
 
